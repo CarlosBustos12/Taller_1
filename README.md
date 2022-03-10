@@ -1,4 +1,4 @@
-# Taller_1
+# Taller_1 por Carlos Fernando Bustos Quevedo
 Este taller consta de 2 programas para hacer en MATLAB, los cuales son:
 1. Leer una imagen rgb pasar a escala de grises aplicar el for anidado para identificar los número pares de los pixeles
 2. Generar un vector de posiciones segun los dos últimos números de su cedula. Llenarlo de números enteros aleatorios en identificar los primos de ese arreglo
